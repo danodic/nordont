@@ -1,0 +1,8 @@
+{
+  "name": "Nordon't",
+  "description": "This extension does what nordon't.",
+  "uuid": "dev.danodic.nordont",
+  "shell-version": [
+    "42"
+  ]
+}
